@@ -1,6 +1,6 @@
 {
   "name": "thaana-keyboard-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ThaanaKeyboard in Vuejs - Thaana keyboard replaces latin text to thaana unicode characters",
   "repository": {
     "type": "git",
