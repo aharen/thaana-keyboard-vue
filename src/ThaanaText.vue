@@ -16,10 +16,11 @@ onMounted(() => {
 </script>
 
 <template>
-    <input 
+    <textarea 
         type="text" 
         v-model="tkState.thaanaText" 
         v-on:beforeinput="tkBeforeInputEvent"
         v-on:input="inputEvent"
-        ref="inputField"  />
+        ref="inputField">
+    </textarea>
 </template>
